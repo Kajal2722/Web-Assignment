@@ -1,2 +1,2 @@
 Live Demo
-https://kajal2722.github.io/Web-Assinment/
+https://kajal2722.github.io/Web-Assignment/
